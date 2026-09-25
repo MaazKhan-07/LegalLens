@@ -1,0 +1,31 @@
+EXECUTIVE EMPLOYMENT AGREEMENT
+
+This Executive Employment Agreement ("Agreement") is made effective as of February 1, 2025, by and between:
+
+EMPLOYER: Apex Technology Cloud Inc., a California corporation ("Company")
+EMPLOYEE: Alex Rivera, an individual residing in San Francisco, CA ("Executive")
+
+1. POSITION AND DUTIES
+The Company agrees to employ Executive in the position of Senior Director of Engineering. Executive shall report directly to the Chief Technology Officer and devote full business time, attention, and energies to the performance of duties.
+
+2. COMPENSATION AND BENEFITS
+(a) Base Salary: The Company shall pay Executive an annual base salary of $210,000, payable in accordance with the Company's standard payroll schedule.
+(b) Discretionary Bonus: Executive shall be eligible for an annual performance bonus with a target of up to 25% of Base Salary, awarded solely at the discretion of the Board of Directors.
+(c) Health and Welfare Benefits: Executive is eligible to participate in medical, dental, vision, and 401(k) plans generally offered to full-time employees.
+
+3. AT-WILL EMPLOYMENT & TERMINATION
+Executive's employment with the Company is "at-will." Either party may terminate the employment relationship at any time, with or without cause, and with or without advance notice.
+
+4. SEVERANCE RESTRICTION AND GENERAL RELEASE
+In the event Executive is terminated by the Company without Cause, Executive shall be entitled to receive two (2) months of Base Salary as severance, conditioned upon Executive executing and not revoking a comprehensive general release of all claims against the Company and its affiliates within thirty (30) days of termination.
+
+5. NON-COMPETITION AND NON-SOLICITATION COVENANTS
+(a) Non-Compete: During employment and for a period of twelve (12) months following termination of employment for any reason, Executive shall not directly or indirectly engage in, perform services for, invest in, or consult with any business that directly competes with the Company's cloud optimization products.
+(b) Non-Solicitation of Customers: Executive shall not, for a period of eighteen (18) months post-termination, solicit or divert business from any customer or prospective customer of the Company.
+(c) Non-Solicitation of Employees: Executive shall not recruit or solicit any employee or contractor of the Company for a period of twenty-four (24) months post-termination.
+
+6. INTELLECTUAL PROPERTY ASSIGNMENT (INVENTIONS AGREEMENT)
+Executive agrees that all inventions, discoveries, designs, software code, improvements, and trade secrets created, conceived, or reduced to practice during the period of employment, whether or not during working hours or using Company equipment, that relate to Company business, shall be the sole and exclusive property of the Company (Works Made for Hire).
+
+7. MANDATORY INDIVIDUAL ARBITRATION AND CLASS ACTION WAIVER
+Any controversy, claim, or dispute arising out of or relating to this Agreement or Executive's employment shall be resolved exclusively through final and binding individual arbitration administered by JAMS in San Francisco, California. Executive and the Company expressly waive any right to bring or participate in any class action, collective action, or representative proceeding.

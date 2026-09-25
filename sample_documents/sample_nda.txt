@@ -1,0 +1,34 @@
+NON-DISCLOSURE AND CONFIDENTIALITY AGREEMENT (MUTUAL)
+
+This Non-Disclosure and Confidentiality Agreement ("Agreement") is made and entered into as of March 15, 2025, by and between:
+
+DISCLOSING PARTY: Apex Innovations Inc., a Delaware corporation ("Apex")
+RECEIVING PARTY: Quantum Software Solutions LLC, a Texas limited liability company ("Quantum")
+
+1. DEFINITION OF CONFIDENTIAL INFORMATION
+"Confidential Information" refers to any proprietary information, technical data, trade secrets, know-how, software source code, business plans, customer lists, financial forecasts, and operational strategies disclosed by either party to the other, whether orally, visually, or in tangible form.
+
+2. OBLIGATIONS OF RECEIVING PARTY
+The Receiving Party agrees to:
+(a) Hold the Confidential Information in strict confidence using at least the same degree of care it uses to protect its own confidential information of like nature, but no less than reasonable care.
+(b) Not disclose any Confidential Information to any third party without prior written consent from the Disclosing Party.
+(c) Limit access to Confidential Information strictly to employees, contractors, and legal advisors who have a need to know and who are bound by confidentiality obligations no less restrictive than those herein.
+
+3. EXCLUSIONS FROM CONFIDENTIALITY
+Confidential Information does not include information that:
+(a) Is or becomes publicly available through no breach of this Agreement.
+(b) Was already in the lawful possession of the Receiving Party prior to disclosure.
+(c) Is independently developed by the Receiving Party without reference to or reliance upon the Disclosing Party's Confidential Information.
+(d) Is required to be disclosed by law, regulation, or court order, provided the Receiving Party gives prompt written notice.
+
+4. TERM AND PERPETUAL SURVIVAL
+This Agreement shall remain in effect for a period of two (2) years from the Effective Date. Notwithstanding the foregoing, the confidentiality obligations with respect to any trade secrets and proprietary software algorithms shall survive the termination of this Agreement in perpetuity.
+
+5. NON-SOLICITATION OF EMPLOYEES (CRITICAL RESTRICTION)
+During the term of this Agreement and for a period of twenty-four (24) months following its termination or expiration, neither party shall, directly or indirectly, solicit, recruit, hire, or attempt to hire any employee, consultant, or key contractor of the other party who was introduced or identified during the business relationship.
+
+6. REMEDIES AND INJUNCTIVE RELIEF
+The parties acknowledge that any breach of this Agreement may cause irreparable harm for which monetary damages alone would be inadequate. Accordingly, the non-breaching party shall be entitled to seek immediate injunctive relief, specific performance, and any other equitable remedies available in any court of competent jurisdiction without the necessity of posting a bond or proving actual damages.
+
+7. GOVERNING LAW AND EXCLUSIVE JURISDICTION
+This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to conflicts of law principles. Any dispute arising out of or relating to this Agreement shall be brought exclusively in the state or federal courts located in Wilmington, Delaware.
