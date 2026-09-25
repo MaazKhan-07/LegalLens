@@ -32,9 +32,14 @@ export function SeverityBadge({ severity, size = "md" }: SeverityBadgeProps) {
   const c = config[severity] || config["Informational"];
   const iconSize = size === "sm" ? 10 : 12;
   return (
-    <span className={c.className} title="Attention level — not a legal verdict">
+    <span
+      className={c.className}
+      title="Attention level — not a legal verdict"
+      aria-label={`Attention level: ${c.label}`}
+      role="status"
+    >
       <c.Icon size={iconSize} />
-      {c.label}
+      <span>{c.label}</span>
     </span>
   );
 }
